@@ -13,4 +13,12 @@
 <li>Arrow</li>
 <li>Enemy idle</li>
 </ul>
-
+<h2><p>Pickups.</p></h2>
+<ul>
+<li>PickHearts </li>
+<li>CoinSpin</li>
+<li>CoinShines</li>
+<h2><p>Attacks.</p></h2>
+<li>Arrow </li> 
+    <li>bomb </li> 
+</ul>
