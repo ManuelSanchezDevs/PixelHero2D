@@ -3,10 +3,14 @@
     where I learned to use animator the use of tilemaps the sprite editor and physics. </h3>
 <h2><p>Animations.</p></h2>
 <ul>
-<li>Player run </li>
-<li>Player roll</li>
-<li>Player jum </li>
-    
-  
+<li>idle </li>
+<li>run</li>
+<li>jump</li>
+<li>double jump</li>
+<li>arrow</li>
+<li>bomb active</li>
+<li>bomb explosion</li>
+<li>Arrow</li>
+<li>Enemy idle</li>
 </ul>
 
