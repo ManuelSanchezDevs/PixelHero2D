@@ -24,7 +24,7 @@
 <li>bomb </li> 
 </ul>
 <h1>Gameplay Preview</h1>
-<h2 align="center">Jump and double jump</h2>
+<h2>Jump and double jump</h2>
 
 ![PixelHero2D-Prototype-WindowsMacLinux-Unity2022 3 4f1__DX11_2024-04-0322-35-42-ezgif com-video-to-gif-converter](https://github.com/ManuelSanchezDevs/PixelHero2D/assets/165371982/3026058f-caea-4396-898a-7f2b2023b1fb)
 
