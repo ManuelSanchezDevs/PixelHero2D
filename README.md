@@ -24,8 +24,15 @@
 <li>bomb </li> 
 </ul>
 <h1>Gameplay Preview</h1>
+
 <h2>Jump and double jump</h2>
 
 
+![Jump-ezgif com-video-to-gif-converter](https://github.com/ManuelSanchezDevs/PixelHero2D/assets/165371982/be23a777-d9dc-4128-9638-7021541605f9)
+
+<h2>Ball mode, bombs and box explosions</h2>
+
+
+![BallMode-ezgif com-video-to-gif-converter](https://github.com/ManuelSanchezDevs/PixelHero2D/assets/165371982/93d976dc-0651-4de2-a67e-c81f789756ea)
 
 
