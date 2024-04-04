@@ -4,15 +4,15 @@
     
 <h2><p>Animations.</p></h2>
 <ul>
-<li>idle </li>
-<li>run</li>
-<li>jump</li>
-<li>double jump</li>
-<li>arrow</li>
-<li>bomb active</li>
-<li>bomb explosion</li>
-<li>Arrow</li>
-<li>Enemy idle</li>
+<li>Player_Idle </li>
+<li>Player_Run</li>
+<li>Player_Jump</li>
+<li>Player_DoubleJump</li>
+<li>Player_ShootArrows</li>
+<li>Bomb_Active</li>
+<li>Bomb_Explotion</li>
+<li>Player_Arrow_Flying</li>
+<li>Enemy_idle</li>
 
 <h2><p>Pickups.</p></h2>
 <li>PickHearts </li>
