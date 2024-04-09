@@ -1,6 +1,10 @@
 <h1 align="center">PixelHero2D</h1>
-<h3>This is a 2D project in which the player must acquire certain skills to pass the level<br>
-    where I learned to use animator the use of tilemaps the sprite editor and physics. </h3>
+
+<h2>Description about the game. </h2>
+ <h4>This is a 2D project in which the player must acquire certain skills to pass the level<br>
+    where I learned to use animator the use of tilemaps the sprite editor and physics.</h4>
+
+    
     
 <h2><p>Animations.</p></h2>
 <ul>
@@ -46,6 +50,7 @@
 ![Arrows-ezgif com-video-to-gif-converter](https://github.com/ManuelSanchezDevs/PixelHero2D/assets/165371982/faf83b7f-a4d3-409e-9559-14bd592e2028)
 
 
+</li>
 
 
 
